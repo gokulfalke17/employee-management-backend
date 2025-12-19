@@ -1,3 +1,4 @@
 # Employee Management Backend
 
-This project is a sample backend application for Git practice.
+This project is under active development.
+Feature branch is used for testing new changes.
