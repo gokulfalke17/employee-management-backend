@@ -1,3 +1,4 @@
 # Employee Management Backend
 
-This project is a sample backend application for Git practice.
+This project is maintained by the core backend team.
+Main branch contains stable production-ready code.
