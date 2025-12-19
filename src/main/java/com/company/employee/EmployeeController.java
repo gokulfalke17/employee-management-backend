@@ -8,7 +8,8 @@ public class EmployeeController {
 
     public void createEmployee(Employee employee) {
         employeeService.addEmployee(employee);
-        System.out.println("Employee added successfully");
+        System.out.println("Employee added to system");
+
     }
 
     public List<Employee> getEmployees() {
